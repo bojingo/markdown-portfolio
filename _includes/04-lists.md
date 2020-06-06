@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* i am bored
+* i like food
+  * pizza
+  * pasta
